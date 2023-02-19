@@ -3,7 +3,7 @@
 
 <h2>Create a workday scheduler that blocks time off for activities. I added more hours because my day starts earier.</h2>
 
-<img src="Work-Day-Scheduler-SS.png" alt="Completed Scheduler" title="Completed Scheduler">
+<img src="./assets/img/Work-Day-Scheduler-SS.png" alt="Completed Scheduler" title="Completed Scheduler">
 
 
 <img src="Work-Day-Scheduler.png" alt="7am-10am not working properly" title="Not completed">
