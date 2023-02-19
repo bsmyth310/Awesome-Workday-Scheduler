@@ -6,7 +6,7 @@
 <img src="./Awesome_Workday_Scheduler/assets/img/Work-Day-Scheduler-SS.png" alt="Completed Scheduler" title="Completed Scheduler">
 
 
-<img src="Work-Day-Scheduler.png" alt="7am-10am not working properly" title="Not completed">
+<img src="./Awesome_Workday_Scheduler/assets/img/Work-Day-Scheduler.png" alt="7am-10am not working properly" title="Not completed">
 
 <p>I was running into issues with adding extra hours and having the colors coordinate properly. Every Hourblock is saved separate from the others and is color-coded based on Past, Present, and Future. The current date and time show at the top of the page. </p>
 
